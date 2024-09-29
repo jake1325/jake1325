@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is jake1325 aka void and I'm a basic scripter in roblox</h2>
 
 ###
 
