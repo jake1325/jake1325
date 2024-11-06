@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is jake1325 aka void and I'm a basic scripter in roblox</h2>
 
 ###
+![](https://komarev.com/ghpvc/?username=jake1325&style=for-the-badge)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jake1325&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -8,7 +10,7 @@
 </div>
 
 ###
-![](https://komarev.com/ghpvc/?username=jake1325&color=green)
+
 <img align="right" height="150" src="https://raw.githubusercontent.com/jake1325/jake1325/refs/heads/main/output/void_1.png"  />
 
 ###
