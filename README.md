@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+![](https://komarev.com/ghpvc/?username=jake1325&color=green)
 <img align="right" height="150" src="https://raw.githubusercontent.com/jake1325/jake1325/refs/heads/main/output/void_1.png"  />
 
 ###
